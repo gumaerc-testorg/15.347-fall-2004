@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course readings and a list of additional
+  books for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
