@@ -5,6 +5,7 @@ file: /courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/13a5d7e3a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignment 1
 uid: 13a5d7e3-ac8d-7dc0-3f37-5a773526afd0
 ---
 Homework assignment.
-
