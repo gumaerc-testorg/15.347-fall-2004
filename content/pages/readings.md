@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of course readings and a list of additional
+  books for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 017a022d-3ceb-0802-4f00-9c4b0f18b2fd
 ---
