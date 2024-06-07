@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/ad43d6c188cd35c73baabddbcfe5d6bb_assignment_2.pdf
+file_size: 49221
 file_type: application/pdf
 learning_resource_types:
 - Assignments
