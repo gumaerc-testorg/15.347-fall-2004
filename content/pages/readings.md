@@ -73,7 +73,7 @@ Research Ethics
 Introduction to the Library
 {{< tdclose >}}
 {{< tdopen >}}
-Examine the [MIT policies and procedures for research on human subjects](http://web.mit.edu/committees/couhes/) and determine what you will have to do to comply with MIT policies in order to carry out your research project.  
+Examine the {{% resource_link "11ac0d6a-092d-4b52-a287-12b0a9eaecf3" "MIT policies and procedures for research on human subjects" %}} and determine what you will have to do to comply with MIT policies in order to carry out your research project.  
   
 Kifner, John. "Scholar Sets Off Gastronomic False Alarm." _New York Times,_ September 8, 2001.  
   
